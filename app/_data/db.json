@@ -1,0 +1,28 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "John doe",
+      "email": "john@example.com",
+      "phone": "123-456-7890",
+      "userid": "1"
+    }
+  ],
+
+  "users": [
+    {
+      "id": "1",
+      "name": "jane doe",
+      "email": "user1@example.com",
+      "phone": "123-654-7890",
+      "passwords": "2"
+    },
+    {
+      "id": "2",
+      "name": "jane doe",
+      "email": "faheemofficial1515@gmail.com",
+      "phone": "123-654-7890",
+      "passwords": "5"
+    }
+  ]
+}
